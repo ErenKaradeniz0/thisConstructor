@@ -1,4 +1,3 @@
-package SecondTermWeek7;
 public class Student {
     String name;
     String surname;
